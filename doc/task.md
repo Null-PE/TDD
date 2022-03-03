@@ -3,3 +3,4 @@
 - [ ] amountをprivateにする
 - [x] Dollar 副作用
 - [ ] Money の丸め処理
+- [ ] equals  実装
