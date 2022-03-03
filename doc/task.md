@@ -1,5 +1,5 @@
 - [ ] $5 + 10CHF = $10 (CHF:$ = 2)
 - [x] $5 * 2 = $10
 - [ ] amountをprivateにする
-- [ ] Dollar 副作用
+- [x] Dollar 副作用
 - [ ] Money の丸め処理
